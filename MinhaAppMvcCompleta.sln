@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevIO.App", "src\DevIO.App\DevIO.App.csproj", "{2229003F-3802-4B4B-97EC-ED23A9EC89A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevIO.Business", "src\DevIO.Business\DevIO.Business.csproj", "{4C9EA1BD-18F7-4D46-9BA9-F1C65172447D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevIO.Business", "src\DevIO.Business\DevIO.Business.csproj", "{4C9EA1BD-18F7-4D46-9BA9-F1C65172447D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevIO.Data", "src\DevIO.Data\DevIO.Data.csproj", "{ECD2E757-FCA3-4D75-8D61-34269B421506}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevIO.Data", "src\DevIO.Data\DevIO.Data.csproj", "{ECD2E757-FCA3-4D75-8D61-34269B421506}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
