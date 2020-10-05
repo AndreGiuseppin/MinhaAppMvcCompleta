@@ -5,9 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Validations\" />
-    <Folder Include="Services\" />
     <Folder Include="Notificacoes\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="9.2.2" />
   </ItemGroup>
 
 </Project>
