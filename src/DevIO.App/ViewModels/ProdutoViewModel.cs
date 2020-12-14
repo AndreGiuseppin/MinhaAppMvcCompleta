@@ -32,7 +32,7 @@ namespace DevIO.App.ViewModels
 
         public string Imagem { get; set; }
 
-        [Moeda]
+        //[Moeda]
         [Required(ErrorMessage = "O campo {0} é obrigatório")]
         public decimal Valor { get; set; }
 
